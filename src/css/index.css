@@ -410,15 +410,15 @@ section .title::after {
 }
 
 .skills-content .right .excel::before {
-  width: 100%;
+  width: 80%;
 }
 
 .skills-content .right .bi::before {
-  width: 100%;
+  width: 80%;
 }
 
 .skills-content .right .dax::before {
-  width: 100%;
+  width: 80%;
 }
 
 .skills-content .right .py::before {
